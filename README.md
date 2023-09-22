@@ -1,7 +1,7 @@
 # TesteMobileComAppiumServerAndRobotFramework
-============================================================
+
 Appium Testing Sample with Robot Framework and AppiumLibrary
-============================================================
+
 
 AppiumLibrary_ is an appium testing library for `Robot Framework`_.
 In this sample usage of the library, you can find ios and android test suites
